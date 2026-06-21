@@ -1,0 +1,3 @@
+mlops_router_model/
+__pycache__/
+*.ipynb_checkpoints/
